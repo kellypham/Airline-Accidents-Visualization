@@ -28,3 +28,15 @@ Note: recommended browser is **Google Chrome**
 
 A demonstration can be found at this [link](https://www.youtube.com/watch?v=f5v8siK6sGU&feature=youtu.be).
 
+## Related Work
+
+- [PlaneTruth](http://www.informationisbeautiful.net/visualizations/plane-truth-every-single-commercial-plane-crash-visualized/)
+<p align="center">
+  <img width="550" height="300" src="./images/ScreenShot.png">
+</p>
+
+## Author
+
+- Sumeet Dhillon
+- Muhammad Ansari
+- Kelly Pham
