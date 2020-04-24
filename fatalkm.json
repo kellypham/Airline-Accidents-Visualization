@@ -1,0 +1,226 @@
+[
+  {
+    "airline": "Aer Lingus",
+    "fatal_per_km": 0
+  },
+  {
+    "airline": "Aeroflot*",
+    "fatal_per_km": 0.00000018
+  },
+  {
+    "airline": "Aerolineas Argentinas",
+    "fatal_per_km": 0
+  },
+  {
+    "airline": "Aeromexico*",
+    "fatal_per_km": 0.00000011
+  },
+  {
+    "airline": "Air Canada",
+    "fatal_per_km": 0
+  },
+  {
+    "airline": "Air France",
+    "fatal_per_km": 0.00000014
+  },
+  {
+    "airline": "Air India*",
+    "fatal_per_km": 0.00000056
+  },
+  {
+    "airline": "Air New Zealand*",
+    "fatal_per_km": 0.0000000099
+  },
+  {
+    "airline": "Alaska Airlines*",
+    "fatal_per_km": 0.000000091
+  },
+  {
+    "airline": "Alitalia",
+    "fatal_per_km": 0.000000072
+  },
+  {
+    "airline": "All Nippon Airways",
+    "fatal_per_km": 0.00000000054
+  },
+  {
+    "airline": "American*",
+    "fatal_per_km": 0.000000099
+  },
+  {
+    "airline": "Austrian Airlines",
+    "fatal_per_km": 0
+  },
+  {
+    "airline": "Avianca",
+    "fatal_per_km": 0.00000081
+  },
+  {
+    "airline": "British Airways*",
+    "fatal_per_km": 0
+  },
+  {
+    "airline": "Cathay Pacific*",
+    "fatal_per_km": 0
+  },
+  {
+    "airline": "China Airlines",
+    "fatal_per_km": 0.00000093
+  },
+  {
+    "airline": "Condor",
+    "fatal_per_km": 0.000000038
+  },
+  {
+    "airline": "COPA",
+    "fatal_per_km": 0.000000085
+  },
+  {
+    "airline": "Delta / Northwest*",
+    "fatal_per_km": 0.00000007
+  },
+  {
+    "airline": "Egyptair",
+    "fatal_per_km": 0.00000053
+  },
+  {
+    "airline": "El Al",
+    "fatal_per_km": 0.000000012
+  },
+  {
+    "airline": "Ethiopian Airlines",
+    "fatal_per_km": 0.00000053
+  },
+  {
+    "airline": "Finnair",
+    "fatal_per_km": 0
+  },
+  {
+    "airline": "Garuda Indonesia",
+    "fatal_per_km": 0.00000046
+  },
+  {
+    "airline": "Gulf Air",
+    "fatal_per_km": 0.00000047
+  },
+  {
+    "airline": "Hawaiian Airlines",
+    "fatal_per_km": 0
+  },
+  {
+    "airline": "Iberia",
+    "fatal_per_km": 0.00000013
+  },
+  {
+    "airline": "Japan Airlines",
+    "fatal_per_km": 0.00000033
+  },
+  {
+    "airline": "Kenya Airways",
+    "fatal_per_km": 0.000001
+  },
+  {
+    "airline": "KLM*",
+    "fatal_per_km": 0.0000000016
+  },
+  {
+    "airline": "Korean Air",
+    "fatal_per_km": 0.00000025
+  },
+  {
+    "airline": "LAN Airlines",
+    "fatal_per_km": 0.000000021
+  },
+  {
+    "airline": "Lufthansa*",
+    "fatal_per_km": 0.00000000058
+  },
+  {
+    "airline": "Malaysia Airlines",
+    "fatal_per_km": 0.00000055
+  },
+  {
+    "airline": "Pakistan International",
+    "fatal_per_km": 0.0000008
+  },
+  {
+    "airline": "Philippine Airlines",
+    "fatal_per_km": 0.00000018
+  },
+  {
+    "airline": "Qantas*",
+    "fatal_per_km": 0
+  },
+  {
+    "airline": "Royal Air Maroc",
+    "fatal_per_km": 0.00000017
+  },
+  {
+    "airline": "SAS*",
+    "fatal_per_km": 0.00000016
+  },
+  {
+    "airline": "Saudi Arabian",
+    "fatal_per_km": 0.00000036
+  },
+  {
+    "airline": "Singapore Airlines",
+    "fatal_per_km": 0.000000037
+  },
+  {
+    "airline": "South African",
+    "fatal_per_km": 0.00000024
+  },
+  {
+    "airline": "Southwest Airlines",
+    "fatal_per_km": 0
+  },
+  {
+    "airline": "Sri Lankan / AirLanka",
+    "fatal_per_km": 0.000000043
+  },
+  {
+    "airline": "SWISS*",
+    "fatal_per_km": 0.00000029
+  },
+  {
+    "airline": "TACA",
+    "fatal_per_km": 0.000000023
+  },
+  {
+    "airline": "TAM",
+    "fatal_per_km": 0.00000019
+  },
+  {
+    "airline": "TAP - Air Portugal",
+    "fatal_per_km": 0
+  },
+  {
+    "airline": "Thai Airways",
+    "fatal_per_km": 0.00000018
+  },
+  {
+    "airline": "Turkish Airlines",
+    "fatal_per_km": 0.000000076
+  },
+  {
+    "airline": "United / Continental*",
+    "fatal_per_km": 0.00000006
+  },
+  {
+    "airline": "US Airways / America West*",
+    "fatal_per_km": 0.0000001
+  },
+  {
+    "airline": "Vietnam Airlines",
+    "fatal_per_km": 0.00000027
+  },
+  {
+    "airline": "Virgin Atlantic",
+    "fatal_per_km": 0
+  },
+  {
+    "airline": "Xiamen Airlines",
+    "fatal_per_km": 0.00000019
+  }
+]
