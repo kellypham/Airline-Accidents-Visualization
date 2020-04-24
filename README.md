@@ -36,7 +36,7 @@ A demonstration can be found at this [link](https://www.youtube.com/watch?v=f5v8
 
 - [PlaneTruth](http://www.informationisbeautiful.net/visualizations/plane-truth-every-single-commercial-plane-crash-visualized/)
 <p align="center">
-  <img width="550" height="300" src="./images/ScreenShot.png">
+  <img width="550" height="300" src="./images/PlaneTruth.png">
 </p>
 
 ## Author
