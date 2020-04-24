@@ -10,9 +10,9 @@ Statistically speaking, flying is the safest way to travel. That being said, air
 
 ## Datasets 
 
-The dataset which the visualization is based on, shows the [number](airline.json) incidents, fatal accidents and fatalities from **1985-1999** and **2000-2014** for every major airline in the world. 
+The dataset which the visualization is based on, shows the [number](airline.json) incidents, fatal accidents and fatalities from **1985-1999** and **2000-2014** for every major airlines in the world. 
 
-Along with them, it also shows how many [kilometres](fatalkm.json) the airline flew per week. 
+Along with them, it also shows how many [kilometres](fatalkm.json) the airlines flew per week. 
 
 ## Instruction
 
@@ -25,6 +25,10 @@ Along with them, it also shows how many [kilometres](fatalkm.json) the airline f
 Note: recommended browser is **Google Chrome**
 
 ## Demo
+
+<p align="center">
+  <img width="750" height="400" src="./images/demo.gif">
+</p>
 
 A demonstration can be found at this [link](https://www.youtube.com/watch?v=f5v8siK6sGU&feature=youtu.be).
 
